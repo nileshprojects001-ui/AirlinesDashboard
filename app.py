@@ -70,7 +70,7 @@ plt.rcParams.update({
 # 2. DATA CLEANING PIPELINE
 # ==========================================
 @st.cache_data
-def load_and_clean_data(file_path: str = "airlines.csv") -> pd.DataFrame:
+def load_and_clean_data(file_path: str = "data/airlines.csv") -> pd.DataFrame:
     df = pd.read_csv(file_path)
 
     # 1. Standardize column names to snake_case
