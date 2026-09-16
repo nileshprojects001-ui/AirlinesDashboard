@@ -1,0 +1,30 @@
+airport_code,airport_name,total_flights,on_time_flights,delayed_flights,cancelled_flights,diverted_flights,total_delay_minutes,on_time_rate
+ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",5092841,3943288,1052410,86176,10967,61818488,77.43
+BOS,"Boston, MA: Logan International",1491908,1126870,324595,38652,1791,18738430,75.53
+BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1300066,1043541,236712,17124,2689,12528499,80.27
+CLT,"Charlotte, NC: Charlotte Douglas International",1542302,1238623,277619,23753,2307,13476691,80.31
+DCA,"Washington, DC: Ronald Reagan Washington National",1051919,822768,196691,29708,2752,10222960,78.22
+DEN,"Denver, CO: Denver International",2773104,2225040,506238,35926,5900,27020884,80.24
+DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",3636019,2882397,657588,80802,15232,39246534,79.27
+DTW,"Detroit, MI: Detroit Metro Wayne County",1725655,1383667,309430,29888,2670,17266407,80.18
+EWR,"Newark, NJ: Newark Liberty International",1670555,1123189,486592,54880,5894,33306693,67.23
+FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",850244,649940,189585,8875,1844,9883454,76.44
+IAD,"Washington, DC: Washington Dulles International",1046816,814756,203546,26462,2052,12300036,77.83
+IAH,"Houston, TX: George Bush Intercontinental/Houston",2381001,1907592,432613,30896,9900,24121262,80.12
+JFK,"New York, NY: John F. Kennedy International",1337099,977224,324778,30258,4839,19985703,73.09
+LAS,"Las Vegas, NV: McCarran International",1974289,1576074,380875,14811,2529,18711405,79.83
+LAX,"Los Angeles, CA: Los Angeles International",2785556,2212797,535293,34164,3302,26897269,79.44
+LGA,"New York, NY: LaGuardia",1416548,980089,372195,57642,6622,22335295,69.19
+MCO,"Orlando, FL: Orlando International",1505072,1193059,296431,12975,2607,15767788,79.27
+MDW,"Chicago, IL: Chicago Midway International",1136254,912607,204143,14806,4698,10533443,80.32
+MIA,"Miami, FL: Miami International",894827,693239,187125,11993,2470,10464788,77.47
+MSP,"Minneapolis, MN: Minneapolis-St Paul International",1628169,1308117,294013,22934,3105,16192317,80.34
+ORD,"Chicago, IL: Chicago O'Hare International",4209590,3070485,984968,144426,9711,66079561,72.94
+PDX,"Portland, OR: Portland International",692770,559477,126987,5466,840,6263360,80.76
+PHL,"Philadelphia, PA: Philadelphia International",1202992,893285,281997,24291,3419,16213533,74.26
+PHX,"Phoenix, AZ: Phoenix Sky Harbor International",2315826,1908794,379748,24306,2978,18104757,82.42
+SAN,"San Diego, CA: San Diego International",1059213,845717,199750,10771,2975,9373713,79.84
+SEA,"Seattle, WA: Seattle/Tacoma International",1348211,1076744,259103,10348,2016,12830933,79.86
+SFO,"San Francisco, CA: San Francisco International",1846811,1336406,471462,35732,3211,28980270,72.36
+SLC,"Salt Lake City, UT: Salt Lake City International",1625683,1369627,238267,15964,1825,11647100,84.25
+TPA,"Tampa, FL: Tampa International",904428,718075,177264,7335,1754,9165562,79.4
